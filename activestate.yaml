@@ -1,4 +1,4 @@
-project: https://platform.activestate.com/peteg/packwheel?branch=main&commitID=1b30511a-d3ab-4be6-987e-2d61ec80a1be
+project: https://platform.activestate.com/peteg/packwheel?branch=main&commitID=dbcbfe0d-2325-4acc-94f8-fafec843c2c0
 
 scripts:
   - name: activationMessage
